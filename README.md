@@ -7,3 +7,4 @@ The user can type in any math expression and once SOLVE is clicked the result wi
 Used JavaScript, HTML and regular expressions
 
 Live link : 
+https://adrians90.github.io/math-solver/
